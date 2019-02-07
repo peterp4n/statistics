@@ -1,0 +1,33 @@
+### 경제 / 경영
+1. 삼성경제연구소 SERI   -   http://www.seri.org
+2. LG경제연구원 LGERI   -   http://www.lgeri.com
+3. 현대경제연구원 HRI   -   http://www.hri.co.kr
+4. 한국개발연구원   -   http://www.kdi.re.kr
+
+
+### 일반 통계
+1. 국가통계포털   -   http://kosis.kr
+2. 한국갤럽조사연구소   -   http://www.gallup.co.kr
+3. 닐슨코리아   -   http://www.nielsen.com/kr/ko.html
+
+
+### 정보통신
+1. 랭키닷컴   -   http://www.rankey.com
+2. 한국정보화진흥원   -   https://www.nia.or.kr
+3. DMC리포트   -   http://www.dmcreport.co.kr
+4. 나스미디어   -   http://www.nasmedia.co.kr
+
+
+### 마케팅 / 광고 / PR분야
+1. 한국방송광고공사(KOBACO)   -   https://www.kobaco.co.kr
+2. TVCF   -   http://www.tvcf.co.kr
+3. 한국광고학회   -   http://www.koads.or.kr/new
+4. 광고정보센터   -   http://www.ad.co.kr
+
+
+## 소셜 빅데이터
+1. 소셜메트릭스   -   http://www.socialmetrics.co.kr
+2. Buzzsumo   -   http://buzzsumo.com
+3. 빅풋9   -   http://bigfoot9.com
+4. 서울 열린데이터 광장   -   http://data.seoul.go.kr
+5. 공공데이터포털   -   http://www.data.go.kr
