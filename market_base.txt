@@ -1,3 +1,6 @@
+### 참고사이트
+https://brunch.co.kr/magazine/mandb
+
 ### 마케팅 용어
 1. 노출(Imprerssion) 광고가 사용자에게 얼마나 보여졌는지를 나타내는 수치
 2. 체류시간(Duration Time) 이용자가 페이지에 머물러 있는 시간으로 고객충성도의 중요한 지표, 블로그운영에서 중요한
