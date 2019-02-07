@@ -1,5 +1,43 @@
+### 마케팅 용어
+1. 노출(Imprerssion) 광고가 사용자에게 얼마나 보여졌는지를 나타내는 수치
+2. 체류시간(Duration Time) 이용자가 페이지에 머물러 있는 시간으로 고객충성도의 중요한 지표, 블로그운영에서 중요한
+3. 시즈널 키워드(Seasonal Keyword)  시기나 이슈에 때라 검색량이 급증하는 테마 키워드, 크리스마스 설날 등 정기적 이슈와 비정기적 이슈를 포함
+4. 어뷰징 블로그(Abusing) 지식인 컨텐츠 등을 본인 외 타인의 계정으로 조작하는 부정행위
+5. PV(Page View) 네티즌이 특정 사이트에서 본 페이지 수, 예를 들면 한 블로그에서 하루 동안 10개의 포스팅을 봤다면 10회로 기록
+6. UV(User View) 순방문자수, 예를 들면 한 네티즌이 특정사이트를 하루동안 여러번 접속했다 하더라도 UV는 1회로 기록
+7. CPM(Cost Per Mile) 광고를 1000회 노출 시키는데 드는 비용
+8. CPC(Cost Per Click) 광고 클릭 횟수당 드는 비용
+9. CPI(Cost Per Install) 애플리케이션이 설치된 기기 수에 따라 광고 비용이 과금되는 방식
+10. CPA(Cost Per Action) 광고를 본 사용자가 회원등록등 광고주가 원하는 행동을 취할때 과금되는 방식, CPI도 CPA의 한 형태
+11. CTR(Click Through Rate) 클릭율이라고 하며 배너광고가 노출된 횟수중 실제 클릭이 일어난 비율을 나타냄, 
+                            예를 들면 배너광고가 100번 노출됐을때 클릭이 5번 이뤄졌다면 CRT은 5%라고 표현함
+12. SEO(Search Engine Optimization) 검색엔진 최적화, 자신의 콘텐츠가 네이버 등 검색엔진에 쉽게 노출되도록 하는 작업을 뜻함
+13. SMO(Social Media Optimization) 소셜미디어 최적화, 소셜미디어를 통해 기업의 인지도 높이고 새로운 가치를 창출하는 방법
+14. 랜딩페이지(Landing Page) 광고난 검색어등 콘텐츠에서 링크를 통해 노출되는 페이지, 전환율과 밀접한 관계를 가지
+15. 전환율(Conversion Rate) 웹사이트 방문자중 제품구매, 회원가입, 다운로드 등 웹사이트가 의도하는 행동을 취하는 비율
+16. 이탈율(Bounce Rate)  웹사이트에서 하나의 페이지만 보고 사이트 전체를 이탈한 비율
+
 ### 성공적인 마케팅 플랜을 위한 기본 중 기본 
-
 1. 내가 판매하려는 것은 무엇인가?
-
 2. 구매하는 사람은 누구인가?
+
+
+### 마케팅 툴
+1. Analysis / Search
+구글 애널리틱스 https://www.google.co.kr/intl/ko/analytics/
+구글 애널리틱스 솔루션 유튜브채널 https://www.youtube.com/user/googleanalytics 
+공식 웹로그 분석 도움말 https://support.google.com/analytics/#topic=3544906  
+네이버 데이터랩 http://datalab.naver.com/
+2. Design
+Pixlr https://pixlr.com/
+GIMP https://www.gimp.org
+3.Inforgrapic
+인포그램 https://infogram.com/
+망고보드 http://www.mangoboard.net/
+4. ETC
+구글 알리미 https://www.google.com/alerts
+마인드 마이스터 https://www.mindmeister.com/ko
+아이디어 도출을 위한 효과적인 방법 중 하나, 마인드맵이 아닐까 합니다. 특히 브레인 스토밍이나 큰 프로젝트 기획에서 유용한 방법이죠.
+ 
+ #### 유튜브 광고, 수익 설정 방법 공개
+ https://brunch.co.kr/@socialmkt/67
